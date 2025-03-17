@@ -1,3 +1,3 @@
-Team Daedalus 2839
-<img src="image.png".
+Team Daedalus 2839 <br>
+<img src="image.png">
 ---
