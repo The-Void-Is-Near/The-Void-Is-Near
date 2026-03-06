@@ -8,5 +8,5 @@
 <br>
 
 <div align="center">
-  <img src="image.png" width=80%/>
+  <img src="image.png" width=44%/>
 </div>
