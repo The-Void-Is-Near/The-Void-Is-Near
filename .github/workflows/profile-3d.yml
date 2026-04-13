@@ -1,9 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 on:
-  schedule: # Runs every day at 18:00 UTC
-    - cron: "0 18 * * *"
-  workflow_dispatch: # Allows you to run it manually
-
+  schedule:
+    - cron: "0 0 * * 0"  # Runs every Sunday at midnight (00:00) UTC
+  workflow_dispatch:     # Keep this so you can still run it manually
+  
 jobs:
   build:
     runs-on: ubuntu-latest
